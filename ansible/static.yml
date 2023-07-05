@@ -1,0 +1,6 @@
+---
+- name: static
+  hosts: all
+  become: yes
+  tasks:
+  
